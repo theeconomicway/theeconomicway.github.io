@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(40, 180, 200);
+  background(255);
   
   rotX += 0.02;
   rotY += 0.01;
@@ -28,6 +28,6 @@ function draw() {
   rotateY(rotY);
   rotateZ(rotZ);
 
-  sphere(25, 16, 10);
+  sphere(25, 26, 20);
   pop();
 }
