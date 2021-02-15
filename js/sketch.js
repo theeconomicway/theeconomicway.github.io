@@ -28,6 +28,6 @@ function draw() {
   rotateY(rotY);
   rotateZ(rotZ);
 
-  sphere(25, 26, 20);
+  sphere(22, 10, 10);
   pop();
 }
