@@ -130,7 +130,7 @@ html {
 }
 
 .mainImage {
-	width: 50vw;
+	width: 100%;
 	height: 500px;
 	object-fit: cover;
 	margin-left: auto;
@@ -138,26 +138,19 @@ html {
 	display: block;
 }
 
-@media (max-width: 1024px) {
-	.mainImage {
-		width: 60vw;
-		margin-left: auto;
-		margin-right: auto;
-	}
-	.postImage {
-		width: 0px;
-		height: 0px;
-	}
-}
-
 .footerList {
 	list-style-type: none;
-	display: flex;
-	flex-direction: row;
 }
 
 .footerList li {
-	flex: 0 0 20rem;
+	width: 350px;
 	margin-left: 2rem;
 }
 
+.noUnderline {
+	text-decoration: none;
+}
+
+.noUnderline:hover {
+	text-decoration: underline;
+}
