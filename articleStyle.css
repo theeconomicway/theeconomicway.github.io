@@ -1,0 +1,60 @@
+/*Header start*/
+.headerItems {
+	list-style-type: none;
+	border-bottom: 2px solid rgb(219, 219, 219);
+	margin-right: 20px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.headerTitle {
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+/*Header end*/
+
+.nav-scroller {
+	margin-top: -12px;
+}
+
+.articleImage {
+	width: 100%;
+}
+
+.articleTitle {
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 500;
+	font-size: 60px;
+}
+
+.articleSubheading {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 40px;
+}
+
+.articleContent {
+	font-family: 'Bookman Old Style';
+}
+
+.footerList {
+	list-style-type: none;
+	position: sticky;
+	top: 30px;
+}
+
+.footerList li {
+	width: 300px;
+	margin-left: 2rem;
+}
+
+.noUnderline {
+	text-decoration: none;
+}
+
+.noUnderline:hover {
+	text-decoration: underline;
+}
