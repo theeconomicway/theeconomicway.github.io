@@ -26,7 +26,6 @@ function draw() {
   
   push();
   
-  
 
   
   fill(50, 130, 0);
