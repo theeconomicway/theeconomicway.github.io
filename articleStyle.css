@@ -30,6 +30,14 @@
 	font-weight: 500;
 	font-size: 60px;
 }
+.articleAuthor {
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 500;
+	font-size: 23px;
+	color: rgb(54, 54, 54);
+	text-align: right;
+	margin-top: -50px;
+}
 
 .articleSubheading {
 	font-family: 'Times New Roman', Times, serif;
