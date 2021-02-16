@@ -4,6 +4,7 @@ html {
 }
 canvas {
   display: block;
+  padding: 0;
 }
 
 .container {
