@@ -39,7 +39,8 @@ canvas {
 }
 
 .jumbotron {
-	background-image: url('https://media-eng.dhakatribune.com/uploads/2020/09/e9906811-edbf-4ae1-bc74-6c7b9d3d0bf8-1601278245306.jpg');
+	/*background-image: url('https://www.fullestop.com/blog/wp-content/uploads/2018/08/Ongoing-Website-Maintenance-Drives-Marketing-Success.jpg');*/
+	/*The text is the wrong colour and i cannot be bothered to change it, so black background for now*/
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
